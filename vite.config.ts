@@ -1,4 +1,4 @@
-import solid from "solid-start/vite";
+import solid from "solid-start-netlify";
 import netlify from "solid-start-netlify";
 import { defineConfig } from "vite";
 
